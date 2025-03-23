@@ -1,4 +1,4 @@
-# 📄 Bhavya Samhitha Mallineni — Data Scientist Resume
+# 📄 Bhavya Samhitha Mallineni 
 
 I'm **Bhavya Samhitha Mallineni**, a Data Scientist with a background in Electrical Engineering, currently pursuing my Master's at the University of Southern California. With over 2 years of industry experience, I've worked on data-driven solutions in the retail and supply chain space, combining technical depth with a passion for impactful storytelling through data.
 
