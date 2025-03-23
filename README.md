@@ -30,7 +30,7 @@ I'm **Bhavya Samhitha Mallineni**, a Data Scientist with a background in Electri
 
 ---
 
-## 🛠️ Projects Included in Resume
+## 🛠️ Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
