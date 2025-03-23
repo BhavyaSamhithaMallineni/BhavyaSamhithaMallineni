@@ -1,8 +1,8 @@
-# 📄 Bhavya Samhitha Mallineni 
+# 📄 Bhavya Samhitha Mallineni — Data Scientist Resume
 
-Welcome to my resume repository! I'm **Bhavya Samhitha Mallineni**, a Data Scientist with a background in Electrical Engineering, currently pursuing my Master's at the University of Southern California. With over 2 years of industry experience, I've worked on data-driven solutions in the retail and supply chain space, combining technical depth with a passion for impactful storytelling through data.
+I'm **Bhavya Samhitha Mallineni**, a Data Scientist with a background in Electrical Engineering, currently pursuing my Master's at the University of Southern California. With over 2 years of industry experience, I've worked on data-driven solutions in the retail and supply chain space, combining technical depth with a passion for impactful storytelling through data.
 
-🔗 **Live Portfolio:** [www.bhavyasamhitha.com](https://www.bhavyasamhitha.com)  
+🔗 **Portfolio:** [www.bhavyasamhitha.com](https://www.bhavyasamhitha.com)  
 📫 **Email:** mallinen@usc.edu  
 💼 **LinkedIn:** [@bhavya-samhitha-mallineni](https://www.linkedin.com/in/bhavya-samhitha-mallineni-a65aa81aa/)  
 💻 **GitHub:** [@BhavyaSamhithaMallineni](https://github.com/BhavyaSamhithaMallineni)
@@ -11,7 +11,7 @@ Welcome to my resume repository! I'm **Bhavya Samhitha Mallineni**, a Data Scien
 
 ## 📌 Highlights
 
-- 🔍 **Data Science & Machine Learning:** Built and deployed ML solutions using Python, SQL, and GCP and focused on predictive modeling, fraud detection, and natural language processing.
+- 🔍 **Data Science & Machine Learning:** Built and deployed ML solutions using Python, SQL, and GCP. Focused on predictive modeling, fraud detection, and natural language processing.
 - ☁️ **Cloud Expertise:** Experience in scalable AI deployment using **Google Cloud Platform**, **Vertex AI**, **Docker**, and **Kubernetes**.
 - 📈 **Business Impact:** Created ETL pipelines, automated workflows, and developed dashboards using **Power BI**, driving insights and efficiency in corporate environments.
 - 🤖 **AI Projects:** From OCR to sign language translation systems and fraud detection models, I apply deep learning and computer vision to solve real-world problems.
